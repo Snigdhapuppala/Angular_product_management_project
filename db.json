@@ -1,0 +1,104 @@
+{
+  "product": [
+    {
+      "productid": "101",
+      "productname": "Apple12",
+      "productprice": 40000,
+      "productcategory": "Mobile",
+      "producturl": "https://m.media-amazon.com/images/I/31SOygUjpUL._SY445_SX342_QL70_FMwebp_.jpg",
+      "productdescription": "This is Apple12 mobile",
+      "id": 22
+    },
+    {
+      "productid": "102",
+      "productname": "Apple ",
+      "productprice": 81000,
+      "productcategory": "Laptop",
+      "producturl": "https://m.media-amazon.com/images/I/316ArzLeJ2L._SY445_SX342_QL70_FMwebp_.jpg",
+      "productdescription": "This is apple laptop",
+      "id": 23
+    },
+    {
+      "productid": "103",
+      "productname": "hotbox",
+      "productprice": 700,
+      "productcategory": "Jar",
+      "producturl": "https://m.media-amazon.com/images/I/41xrK09ZcsL._SY300_SX300_QL70_FMwebp_.jpg",
+      "productdescription": "This is hot box milton",
+      "id": 24
+    },
+    {
+      "productid": "104",
+      "productname": "NoiseFit",
+      "productprice": 1200,
+      "productcategory": "Smart Watch",
+      "producturl": "https://m.media-amazon.com/images/I/418tFshxkJL._SX300_SY300_QL70_FMwebp_.jpg",
+      "productdescription": "This is NoiseFit Smart Watch",
+      "id": 25
+    },
+    {
+      "productid": "105",
+      "productname": "BoAt Airdopes",
+      "productprice": 1400,
+      "productcategory": "Wireless Earbuds",
+      "producturl": "https://m.media-amazon.com/images/I/71ZsKY4uwrL._SX522_.jpg",
+      "productdescription": "This is Wireless Airdopes",
+      "id": 26
+    },
+    {
+      "productid": "106",
+      "productname": "LG Altra HD Nano TV",
+      "productprice": 55990,
+      "productcategory": "TV",
+      "producturl": "https://m.media-amazon.com/images/I/41aAqtJSiIL._SX300_SY300_QL70_FMwebp_.jpg",
+      "productdescription": "This is Altra HD 139cm Nano TV",
+      "id": 27
+    },
+    {
+      "productid": "108",
+      "productname": "Whirlpool Fridge",
+      "productprice": 15670,
+      "productcategory": "Fridge",
+      "producturl": "https://m.media-amazon.com/images/I/31Vzn2xi45L._SX342_SY445_QL70_FMwebp_.jpg",
+      "productdescription": "This is Whirlpool 192L 4 star inverter fridge",
+      "id": 29
+    },
+    {
+      "productid": "110",
+      "productname": "Kurtha",
+      "productprice": 450,
+      "productcategory": "Top",
+      "producturl": "https://m.media-amazon.com/images/I/61rXsNoYrxL._UX679_.jpg",
+      "productdescription": "This orange Top",
+      "id": 31
+    },
+    {
+      "productid": "111",
+      "productname": "Puma shoe",
+      "productprice": 1598,
+      "productcategory": "Men",
+      "producturl": "https://m.media-amazon.com/images/I/61ocMy9NqAL._UY675_.jpg",
+      "productdescription": "Puma Womens Kendall WNS Running Shoe",
+      "id": 32
+    },
+    {
+      "productid": "111",
+      "productname": "Spects",
+      "productprice": 22000,
+      "productcategory": "Eye Accesseries",
+      "producturl": "https://m.media-amazon.com/images/I/51PQMxUCmML._UX679_.jpg",
+      "productdescription": "HyperX Spectre 1st Edition - Gaming Eyewear",
+      "id": 33
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typecode"
+  }
+}
